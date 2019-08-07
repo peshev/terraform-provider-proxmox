@@ -3,3 +3,5 @@ examples/*_override.tf
 
 *~*
 *.bak
+
+.history
