@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform/plugin"
 	"github.com/hashicorp/terraform/terraform"
-	"github.com/ppeshev/terraform-provider-proxmox/proxmox"
+	"github.com/peshev/terraform-provider-proxmox/proxmox"
 )
 
 func main() {
